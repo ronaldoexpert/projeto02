@@ -15,13 +15,13 @@ root.render(
   <>
     <h1>Lista de Clientes</h1>
 
-    {
+    {/* {
       clientes.map((cli) =>{
         return <Cliente key={cli.nome} 
                         nome={cli.nome} 
                         cidade={cli.cidade} />
       })
-    }
+    } */}
     
   </>
 );
