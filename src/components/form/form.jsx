@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 
 function Form(){    
-    const [email, setEmail] = useState("teste");
+    const [email, setEmail] = useState("");
 
     return <div>
         <h1>Formulário</h1>
